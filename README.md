@@ -2,4 +2,4 @@
 
 # Régression sur le prix de vente de biens immobiliers
 
-Voici le code de projet : [code](https://github.com/ThibaultLanthiez/Regression-prix-vente-biens-immobiliers/blob/main/R%C3%A9gression%20prix%20de%20vente%20biens%20immobiliers.ipynb)
+Voici le code de ce projet : [code](https://github.com/ThibaultLanthiez/Regression-prix-vente-biens-immobiliers/blob/main/R%C3%A9gression%20prix%20de%20vente%20biens%20immobiliers.ipynb)
