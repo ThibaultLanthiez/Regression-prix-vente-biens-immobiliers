@@ -8,11 +8,11 @@ L'objectif est d'estimer le prix de vente d'un bien immobilier en fonction de se
 
 Tout d'abord, sur la plateforme Kaggle j'ai téléchargé un jeu de données remplies de variables informatives sur les caractéristiques de biens immobiliers. Bien entendu, on retrouve dans ces variables, le prix auquel chaque bien a été vendus.
 
-Pour cela, il a d'abord fallu passer par une phase de nettoyage de données, de création de variables, d'encodage ainsi que de sélection de variables. 
+Ensuite, il a fallu passer par une phase de nettoyage de données, de création de variables, d'encodage ainsi que de sélection de variables. 
 
-À l'aide du langage Python et de bibliothèque Scikit-Learn, j'ai testé différents modèles de machine learning. Celui qui a le mieux marché fut le Gradient Boosting.
+À l'aide du langage python et de la bibliothèque Scikit-Learn, j'ai testé différents modèles de machine learning. Celui qui a eu les meilleurs performances fut le Gradient Boosting.
 
-Après quelques optimisations des performances, le résultat du modèle fut le suivant : 8 % d'erreur (par rapport au prix de vente).
+Enfin, après quelques optimisations des performances, le résultat du modèle fut le suivant : 8% d'erreur (par rapport au prix de vente réel).
 
 # Code
 
