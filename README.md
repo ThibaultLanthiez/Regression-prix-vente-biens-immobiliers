@@ -12,7 +12,7 @@ Ensuite, il a fallu passer par une phase de nettoyage de données, de création 
 
 À l'aide du langage Python et de la bibliothèque Scikit-Learn, j'ai testé différents modèles de Machine Learning. Celui qui a eu les meilleurs performances fut l'algorithme du Gradient Boosting.
 
-Enfin, après quelques optimisations des performances, le résultat du modèle fut le suivant : 8% d'erreur (par rapport au prix de vente réel).
+Enfin, après quelques optimisations des performances, le résultat du modèle fut le suivant : 14 % d'erreur (par rapport au prix de vente réel).
 
 # Code
 
